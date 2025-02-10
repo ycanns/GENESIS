@@ -6,6 +6,7 @@
       <hr>
       <h3><p  class="sansserif">Concept of GENESIS</p></h3>
       <p class="sansserif">This tool offers a proof-of-concept trip production using American community survey (ACS), CTPP and NHTS. ACS provides quite accurate and microscale trip production information for journey-to-work level, but they do not provide trip information for other trip purposes, such as home-based other (HBO), non-home-based (NHB), home-based shopping (HBSHOP) and home-based social/recreation trips (HBSOCREC)....</p> <br>
+        <a href="https://ycanns.github.io/GENESIS/index.html">Exploring GENESIS</a><br>
       GENESIS has made by Kyeongsu Kim, Ph.D. & Yohan Chang, Ph.D., Census Data for Transportation Planning, 2019 Transportation Research Board (TRB) Annual Meeting, Washington D.C.<br>
   </div>
 </div>
